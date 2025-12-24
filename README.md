@@ -45,16 +45,12 @@ This project focuses on developing an automated system for skin cancer diagnosis
 
 ## Output
 
-#### **Output 1 - Image Preprocessing**
 
-
-#### **Output 2 - Lesion Classification & Confidence Score**
+#### **Output - Lesion Classification & Confidence Score**
 <img width="541" height="463" alt="image" src="https://github.com/user-attachments/assets/a3091c5e-ae04-4885-984c-28001b445128" />
 
 
-
-
-> **Detection Accuracy:** 94.8%  
+ 
 > *Note: These metrics are based on experimental evaluations using the HAM10000 dataset.*
 
 ---
