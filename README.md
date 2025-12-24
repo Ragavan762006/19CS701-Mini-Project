@@ -37,6 +37,7 @@ This project focuses on developing an automated system for skin cancer diagnosis
 ---
 
 ## System Architecture
+<img width="544" height="545" alt="image" src="https://github.com/user-attachments/assets/367631f7-13d9-40c7-8141-92a0f26115f6" />
 
 
 
@@ -44,11 +45,12 @@ This project focuses on developing an automated system for skin cancer diagnosis
 
 ## Output
 
-#### **Output 1 - Image Preprocessing (Hair Removal & Scaling)**
-![Preprocessing Output](https://github.com/<<yourusername>>/Skin-Cancer-Detection/assets/75235455/placeholder1)
+#### **Output 1 - Image Preprocessing**
+
 
 #### **Output 2 - Lesion Classification & Confidence Score**
-![Detection Output](https://github.com/<<yourusername>>/Skin-Cancer-Detection/assets/75235455/placeholder2)
+<img width="541" height="463" alt="image" src="https://github.com/user-attachments/assets/a3091c5e-ae04-4885-984c-28001b445128" />
+
 
 
 
